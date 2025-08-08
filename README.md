@@ -24,7 +24,7 @@ Dataset yang digunakan adalah **"Ames Housing Dataset"**.
 5.  **Analisis Fitur Penting:** Mengidentifikasi dan memvisualisasikan fitur-fitur yang paling berpengaruh dalam menentukan prediksi harga.
 
 ### 📊 Hasil
-- Model berhasil mencapai skor **R-squared sebesar [0.9315]** pada data tes.
+- Model berhasil mencapai skor **R-squared sebesar 0.9315** pada data tes.
 - **Tiga Fitur Teratas** yang paling mempengaruhi harga jual adalah:
     1.  **OverallQual:** Kualitas material dan finishing keseluruhan.
     2.  **GrLivArea:** Luas total area tinggal di atas tanah.
@@ -57,7 +57,7 @@ The dataset used is the **"Ames Housing Dataset"**.
 5.  **Feature Importance Analysis:** Identified and visualized the most influential features in determining price predictions.
 
 ### 📊 Results
-- The model achieved an **R-squared score of [0.9315]** on the test data.
+- The model achieved an **R-squared score of 0.9315** on the test data.
 - The **Top Three Most Influential Features** in predicting the sale price are:
     1.  **OverallQual:** Overall material and finish quality.
     2.  **GrLivArea:** Above-ground living area square feet.
