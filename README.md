@@ -14,7 +14,7 @@ Tujuan dari proyek ini adalah untuk membangun sebuah model regresi yang akurat m
 ### 📁 Dataset
 Dataset yang digunakan adalah **"Ames Housing Dataset"**.
 - **Sumber:** Kaggle
-- **Karakteristik:** Terdiri dari 2.930 baris dan 81 kolom fitur yang menjelaskan berbagai aspek properti, mulai dari luas tanah hingga kualitas garasi.
+- **Karakteristik:** Terdiri dari 2.930 baris dan 82 kolom fitur yang menjelaskan berbagai aspek properti, mulai dari luas tanah hingga kualitas garasi.
 
 ### ⚙️ Proses Pengerjaan
 1.  **Pembersihan Data:** Menangani nilai yang hilang (*missing values*) dengan strategi imputasi (mengisi dengan median/modus) dan menghapus kolom dengan data kosong lebih dari 50%.
@@ -47,7 +47,7 @@ The goal of this project is to build an accurate regression model using the **XG
 ### 📁 Dataset
 The dataset used is the **"Ames Housing Dataset"**.
 - **Source:** Kaggle
-- **Characteristics:** It consists of 2,930 rows and 81 feature columns describing various aspects of the properties, from lot area to garage quality.
+- **Characteristics:** It consists of 2,930 rows and 82 feature columns describing various aspects of the properties, from lot area to garage quality.
 
 ### ⚙️ Workflow
 1.  **Data Cleaning:** Handled missing values using imputation strategies (filling with median/mode) and dropping columns with more than 50% missing data.
